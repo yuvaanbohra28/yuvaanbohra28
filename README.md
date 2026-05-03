@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yuvaan 👋
 
-<!--
-**yuvaanbohra28/yuvaanbohra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Student learning Python, AI, and version control  
+- 💻 Currently working on beginner Python projects  
+- 🌱 Learning Git, GitHub, and problem solving  
+- 🎯 Goal: Become really good at coding and build cool projects  
 
-Here are some ideas to get you started:
+## 🧠 Skills (Learning)
+- Python 🐍  
+- Git & GitHub 🔧  
+- Basics of AI 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔢 Python Calculator  
+- (Add more as you build!)
+
+## 📫 Connect with Me
+- GitHub: https://github.com/YOUR_USERNAME
